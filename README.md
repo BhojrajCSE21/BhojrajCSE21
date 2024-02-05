@@ -8,7 +8,6 @@
 - Html And Bootstrap
 - Web Development And Designing
 - 💞️ I’m looking to collaborate on ... 
-- Code RAnkers  
 - HackerRank 
 - Geeks Coding Challenge (GCC) 
 - 📫 How to reach me ...
