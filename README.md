@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Bhojraj, a full-time full-stack developer 👨‍💻 and machine learning enthusiast 🚀</div>  
   
 
@@ -94,19 +89,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BhojrajCSE21&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
