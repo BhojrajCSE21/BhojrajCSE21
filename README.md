@@ -1,7 +1,7 @@
-### <div align="center">I'm Bhojraj, a full-time full-stack developer 👨‍💻 and machine learning enthusiast 🚀</div>  
+### <div align="center">I'm Bhojraj, a full-stack developer 👨‍💻 and machine learning enthusiast 🚀</div>  
   
 
-- 🌱 I’m currently learning Flutter and Next.JS  
+- 🌱 I’m currently learning Flutter and Next.Js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
